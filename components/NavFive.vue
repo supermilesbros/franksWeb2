@@ -4,7 +4,7 @@
       <div class="container-box">
         <div class="topbar_three_content clearfix">
           <div class="logo-box-three logo-box-five float-left">
-            <a href="/home" class="main-nag__logo">
+            <a href="/" class="main-nag__logo">
               <img style="width: 50%;" src="/assets/images/franks/franks-logo-menu-2.png" alt="">
             </a>
           </div>

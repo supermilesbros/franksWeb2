@@ -1,58 +1,39 @@
 <template>
   <div>
-    <NavFour />
-    <SliderFour />
-    <DetailsOne />
-    <WelcomeTwo />
-    <EcoFriendly />
-    <ContactTwo />
-    <!-- <ServiceFour /> -->
-    <!-- <FaqOne /> -->
-    <!-- <TestimonialThree /> -->
-    <!-- <BrandFour /> -->
-    <!-- <AchievedOne /> -->
-    <!-- <FunfactOne />
-    <BlogFour />
-    <Footer /> -->
+    <NavFive />
+    <SliderFive />
+    <ServiceTwo />
+    <TestimonialFour />
+    <TwoBoxes />
+    <HealthyFood />
+    <ContactOne />
+    <Footer />
   </div>
 </template>
 
 <script>
-
-  import SliderFour from "../components/SliderFour";
-  import NavFour from "../components/NavFour";
-  import DetailsOne from "../components/DetailsOne";
-  import WelcomeTwo from "../components/WelcomeTwo";
-  import EcoFriendly from "../components/EcoFriendly";
-  import ServiceFour from "../components/ServiceFour";
-  import FaqOne from "../components/FaqOne";
-  import TestimonialThree from "../components/TestimonialThree";
-  import BrandFour from "../components/BrandFour";
-  import AchievedOne from "../components/AchievedOne";
-  import FunfactOne from "../components/FunfactOne";
-  import BlogFour from "../components/BlogFour";
+  import NavFive from "../components/NavFive";
+  import SliderFive from "../components/SliderFive";
+  import ServiceTwo from "../components/ServiceTwo";
+  import TestimonialFour from "../components/TestimonialFour";
+  import TwoBoxes from "../components/TwoBoxes";
+  import HealthyFood from "../components/HealthyFood";
+  import ContactOne from "../components/ContactOne";
   import Footer from "../components/Footer";
-  import ContactTwo from "../components/ContactTwo";
   export default {
     components: {
       Footer,
-      BlogFour,
-      FunfactOne,
-      AchievedOne,
-      BrandFour,
-      TestimonialThree,
-      FaqOne,
-      ServiceFour,
-      EcoFriendly,
-      WelcomeTwo,
-      DetailsOne,
-      NavFour,
-      SliderFour,
-      ContactTwo
+      ContactOne,
+      HealthyFood,
+      TwoBoxes,
+      TestimonialFour,
+      ServiceTwo,
+      SliderFive,
+      NavFive
     },
     head(){
       return {
-        title: "Frank's Paddlesports Livery"
+        title: "Frank's  | Home"
       }
     }
   }
