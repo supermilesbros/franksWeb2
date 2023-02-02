@@ -15,7 +15,7 @@
               <div class="service_2_image">
                 <img src="/assets/images/service/service-2-img-1.png" alt="Service-2 Image">
               </div>
-              <h3>Paddleboat<br>Rentals</h3>
+              <h3>PaddleSport<br>Rentals</h3>
             </li>
             <li class="service_2_single wow fadeInUp" data-wow-delay="300ms">
               <div class="service_2_image">
@@ -33,7 +33,7 @@
               <div class="service_2_image">
                 <img src="/assets/images/service/service-2-img-4.png" alt="Service-2 Image">
               </div>
-              <h3>Conservation<br>education</h3>
+              <h3>Environmental <br>education</h3>
             </li>
           </ul>
         </div>

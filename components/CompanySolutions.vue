@@ -24,10 +24,8 @@
             <div class="company_solutions_image">
               <img src="/assets/images/resources/com_solutions_img-2.jpg" alt="">
             </div>
-            <h2>Active Lobbying</h2>
-            <p>Lobby Fort Harrison State Park to put
-                trash receptacles/dumpsters in the parking lots and place signage along Fall
-                Creek</p>
+            <h2>Community Work</h2>
+            <p>Work hand in hand with our community to set and achieve environmental goals.</p>
           </div>
         </div>
         <div class="col-xl-4 col-lg-4">

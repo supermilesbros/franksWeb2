@@ -5,7 +5,7 @@
                                                  alt="Farm Image"></div>
         <div class="container">
           <div class="row no-gutters">
-            <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="col-xl-3 col-lg-3 col-md-6">
               <div class="footer-widget__column footer-widget__about wow fadeInUp" data-wow-delay="100ms">
                 <div class="footer-widget__title">
                   <h3>About</h3>
@@ -23,7 +23,7 @@
                 </form>
               </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="col-xl-3 col-lg-3 col-md-6">
               <div class="footer-widget__column footer-widget__link wow fadeInUp" data-wow-delay="200ms">
                 <div class="footer-widget__title">
                   <h3>Explore</h3>
@@ -38,8 +38,20 @@
                 </ul>
               </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6">
-              <div class="footer-widget__column footer-widget__contact wow fadeInUp" data-wow-delay="400ms">
+            <div class="col-xl-3 col-lg-3 col-md-6">
+              <div class="footer-widget__column footer-widget__link wow fadeInUp" data-wow-delay="200ms">
+                <div class="footer-widget__title">
+                  <h3>Quick Links</h3>
+                </div>
+                <ul class="footer-widget__links-list list-unstyled">
+                  <li><a href="#">Cancelation Policy</a></li>
+                  <li><a href="#">FAQ</a></li>
+                  <li><a href="#">River Map</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-3 col-md-6">
+              <div class="footer-widget__column footer-widget__contact wow fadeInUp" data-wow-delay="300ms">
                 <div class="footer-widget__title">
                   <h3>Contact</h3>
                 </div>
