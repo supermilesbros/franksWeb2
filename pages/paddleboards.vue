@@ -1,8 +1,8 @@
 <template>
   <div>
     <NavFive />
-    <PageHeader title="Product Detail" />
-    <ProductDetail />
+    <PageHeader title="Stand-Up Paddleboards" />
+    <SupDetail />
     <Footer />
   </div>
 </template>
@@ -11,18 +11,18 @@
 
   import NavFive from "../components/NavFive";
   import PageHeader from "../components/PageHeader";
-  import ProductDetail from "../components/ProductDetail";
+  import SupDetail from "../components/SupDetail";
   import Footer from "../components/Footer";
   export default {
     components: {
       Footer,
       PageHeader,
-      ProductDetail,
+      SupDetail,
       NavFive
     },
     head(){
       return {
-        title: "Agrikol  | Product Detail"
+        title: "Frank's  | Stand-Up Paddleboards"
       }
     }
   }
