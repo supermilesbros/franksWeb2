@@ -1,4 +1,5 @@
 <template>
+  <div>
   <section class="project_detail">
     <div class="container">
       <div class="row">
@@ -40,6 +41,58 @@
       </div>
     </div>
   </section>
+  <section class="all_products_two">
+        <div class="container">
+          <div class="block-title text-center">
+            <p>Frank's</p>
+            <h3>other friends</h3>
+            <div class="leaf">
+              <img src="/assets/images/resources/paddle.png" alt="">
+            </div>
+          </div>
+          <div class="all_products">
+            <div class="row">
+              <div class="col-xl-3 col-lg-3 col-md-6">
+                <div class="all_products_single text-center">
+                  <div class="all_product_item_image">
+                    <img src="/assets/images/shop/similar_pro_1.jpg" alt="">
+                  </div>
+                  <h4>Indy Parks Department</h4>
+                  
+                </div>
+              </div>
+              <div class="col-xl-3 col-lg-3 col-md-6">
+                <div class="all_products_single text-center">
+                  <div class="all_product_item_image">
+                    <img src="/assets/images/shop/similar_pro_2.jpg" alt="">
+                  </div>
+                  <h4>Friends of white River</h4>
+                  
+                </div>
+              </div>
+              <div class="col-xl-3 col-lg-3 col-md-6">
+                <div class="all_products_single text-center">
+                  <div class="all_product_item_image">
+                    <img src="/assets/images/shop/similar_pro_3.jpg" alt="">
+                  </div>
+                  <h4>Friends of Fort Harrison State Park</h4>
+                  
+                </div>
+              </div>
+              <div class="col-xl-3 col-lg-3 col-md-6">
+                <div class="all_products_single text-center">
+                  <div class="all_product_item_image">
+                    <img src="/assets/images/shop/similar_pro_4.jpg" alt="">
+                  </div>
+                  <h4>Indianapolis Art Center</h4>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+</div>
 </template>
 
 <script>

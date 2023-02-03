@@ -1,7 +1,7 @@
 <template>
   <div>
-    <Nav />
-    <PageHeader title="Products" />
+    <NavFive />
+    <PageHeader title="Merch" />
     <Products />
     <Footer />
   </div>
@@ -9,7 +9,7 @@
 
 <script>
 
-  import Nav from "../components/Nav";
+  import NavFive from "../components/NavFive";
   import PageHeader from "../components/PageHeader";
   import Footer from "../components/Footer";
   import Products from "../components/Products";
@@ -18,7 +18,7 @@
       Products,
       Footer,
       PageHeader,
-      Nav
+      NavFive
     },
     head(){
       return {

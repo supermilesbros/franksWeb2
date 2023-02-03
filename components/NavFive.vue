@@ -24,7 +24,7 @@
                         <nuxt-link to="/aboutus">About</nuxt-link>
                       </li>
                       <li>
-                        <nuxt-link to="/friends">Our Friends</nuxt-link>
+                        <nuxt-link to="/parksAlliance">Our Friends</nuxt-link>
                       </li>
                       <li class="dropdown">
                         <nuxt-link to="#">Our Boats</nuxt-link>
@@ -33,6 +33,9 @@
                           <li><nuxt-link to="/kayaks">Kayaks</nuxt-link></li>
                           <li><nuxt-link to="/paddleboards">Stand-Up Paddleboards</nuxt-link></li>
                         </ul><!-- /.sub-menu -->
+                      </li>
+                      <li>
+                        <nuxt-link to="/product">Shop</nuxt-link>
                       </li>
                       <li>
                         <nuxt-link to="/contact">Contact Us</nuxt-link>

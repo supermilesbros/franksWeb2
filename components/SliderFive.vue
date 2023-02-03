@@ -1,11 +1,5 @@
 <template>
   <section class="banner-section banner-five">
-    <div class="round_1">
-      <img src="/assets/images/main-slider/round_1.png" alt="">
-    </div>
-    <div class="round_2">
-      <img src="/assets/images/main-slider/round_2.png" alt="">
-    </div>
     <div class="banner-carousel five owl-theme owl-carousel">
       <no-ssr>
         <carousel :items="1" :autoplay="false" :autoplayTimeout="5000" :nav="false">
