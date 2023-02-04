@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Nav />
+    <NavFive />
     <PageHeader title="Cart" />
     <Cart />
     <Footer />
@@ -9,7 +9,7 @@
 
 <script>
 
-  import Nav from "../components/Nav";
+  import NavFive from "../components/NavFive";
   import PageHeader from "../components/PageHeader";
   import Cart from "../components/Cart";
   import Footer from "../components/Footer";
@@ -18,7 +18,7 @@
       Footer,
       Cart,
       PageHeader,
-      Nav
+      NavFive
     },
     head(){
       return {
