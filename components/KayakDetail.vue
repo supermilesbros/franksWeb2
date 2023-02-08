@@ -65,7 +65,7 @@
                   </div>
 
                   <!--Tab-->
-                  <input type="radio" name="tabs" id="tab-two" checked="checked">
+                  <input type="radio" name="tabs" id="tab-two" >
                   <label for="tab-two" class="tab-btn">History of Kayaks</label>
                   <div class="tab">
                     <div class="active-tab">
@@ -92,7 +92,7 @@
                   </div>
 
                   <!--Tab-->
-                  <input type="radio" name="tabs" id="tab-three" checked="checked">
+                  <input type="radio" name="tabs" id="tab-three" >
                   <label for="tab-three" class="tab-btn">Benefits of Kayaks</label>
                   <div class="tab">
                     <div class="active-tab">
@@ -109,7 +109,7 @@
                     </div>
                   </div>
 
-                  <input type="radio" name="tabs" id="tab-four" checked="checked">
+                  <input type="radio" name="tabs" id="tab-four">
                   <label for="tab-four" class="tab-btn">Drawbacks of Kayaks</label>
                   <div class="tab">
                     <div class="active-tab">

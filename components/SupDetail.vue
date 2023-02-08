@@ -50,7 +50,7 @@
 
                         <div class="product-details-content">
                           <div class="desc-content-box">
-                            <p class="text-accent">The folks at bounce have created a brand new board construction
+                            <p class="text-accent">The folks at Bounce have created a brand new board construction
                               process, which Boarders Mag called the “Future of Board Technology” not long ago.
                               A ‘green process’ which means no shaping of toxic foam and no sanding of
                               fiberglass.</p>
@@ -66,7 +66,7 @@
                   </div>
 
                   <!--Tab-->
-                  <input type="radio" name="tabs" id="tab-two" checked="checked">
+                  <input type="radio" name="tabs" id="tab-two" >
                   <label for="tab-two" class="tab-btn">History of SUPs</label>
                   <div class="tab">
                     <div class="active-tab">
@@ -81,8 +81,8 @@
                               rafts.</p>
                             <p  class="desc-content-box_bottom text-accent">The modern stand-up paddleboard was developed in the 1960s in Hawaii, where
                               surfers used the technique to paddle out to the waves more easily. In the 2000s, stand-
-                              up paddleboarding began to gain popularity as a recreational</p>
-                            <p  class="desc-content-box_bottom text-accent">TToday, stand-up paddleboarding is enjoyed by people of all ages and is used for a
+                              up paddleboarding began to gain popularity as a recreational activity, and the sport has since exploded in popularity around the world.</p>
+                            <p  class="desc-content-box_bottom text-accent">Today, stand-up paddleboarding is enjoyed by people of all ages and is used for a
                               variety of purposes including touring, racing, yoga, and fitness. Stand-up paddleboards
                               are made from a variety of materials including fiberglass, plastic, and inflatable
                               materials.</p>
@@ -95,7 +95,7 @@
                   </div>
 
                   <!--Tab-->
-                  <input type="radio" name="tabs" id="tab-three" checked="checked">
+                  <input type="radio" name="tabs" id="tab-three" >
                   <label for="tab-three" class="tab-btn">Benefits of SUPs</label>
                   <div class="tab">
                     <div class="active-tab">
@@ -114,7 +114,7 @@
                     </div>
                   </div>
 
-                  <input type="radio" name="tabs" id="tab-four" checked="checked">
+                  <input type="radio" name="tabs" id="tab-four" >
                   <label for="tab-four" class="tab-btn">Drawbacks of SUPs</label>
                   <div class="tab">
                     <div class="active-tab">

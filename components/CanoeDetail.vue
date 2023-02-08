@@ -5,8 +5,8 @@
     <div class="container">
       <h2 class="header-text">OUR Canoes</h2>
       <ul class="thm-breadcrumb list-unstyled">
-        <li @click="canoe = 'prospector'"><span style="background-color: #fffbce; color: black;">Prospector 16</span></li>
-        <li @click="canoe = 'huron'"><span @click="canoe == 'huron'">Huron 16</span></li>
+        <li style="cursor: pointer;" @click="canoe = 'prospector'"><span style="background-color: #fffbce; color: black;">Prospector 16</span></li>
+        <li style="cursor: pointer;" @click="canoe = 'huron'"><span @click="canoe == 'huron'">Huron 16</span></li>
       </ul>
     </div>
   </section>
@@ -74,7 +74,7 @@
                   </div>
 
                   <!--Tab-->
-                  <input type="radio" name="tabsPro" id="tab-two" checked="checked">
+                  <input type="radio" name="tabsPro" id="tab-two" >
                   <label for="tab-two" class="tab-btn">History of Canoes</label>
                   <div class="tab">
                     <div class="active-tab">
@@ -101,7 +101,7 @@
                   </div>
 
                   <!--Tab-->
-                  <input type="radio" name="tabsPro" id="tab-three" checked="checked">
+                  <input type="radio" name="tabsPro" id="tab-three" >
                   <label for="tab-three" class="tab-btn">Benefits of Canoes</label>
                   <div class="tab">
                     <div class="active-tab">
@@ -119,7 +119,7 @@
                       </div>
                     </div>
                   </div>
-                  <input type="radio" name="tabsPro" id="tab-four" checked="checked">
+                  <input type="radio" name="tabsPro" id="tab-four" >
                   <label for="tab-four" class="tab-btn">Drawbacks of Canoes</label>
                   <div class="tab">
                     <div class="active-tab">
@@ -206,7 +206,7 @@
                   </div>
 
                   <!--Tab-->
-                  <input type="radio" name="tabs" id="tab-six" checked="checked">
+                  <input type="radio" name="tabs" id="tab-six" >
                   <label for="tab-six" class="tab-btn">History of Canoes</label>
                   <div class="tab">
                     <div class="active-tab">
@@ -233,7 +233,7 @@
                   </div>
 
                   <!--Tab-->
-                  <input type="radio" name="tabs" id="tab-seven" checked="checked">
+                  <input type="radio" name="tabs" id="tab-seven" >
                   <label for="tab-seven" class="tab-btn">Benefits of Canoes</label>
                   <div class="tab">
                     <div class="active-tab">
@@ -251,7 +251,7 @@
                       </div>
                     </div>
                   </div>
-                  <input type="radio" name="tabs" id="tab-eight" checked="checked">
+                  <input type="radio" name="tabs" id="tab-eight" >
                   <label for="tab-eight" class="tab-btn">Drawbacks of Canoes</label>
                   <div class="tab">
                     <div class="active-tab">
