@@ -82,7 +82,7 @@
           </ul><!-- /.sub-menu -->
         </li>
         <li>
-          <nuxt-link to="/shop">Shop</nuxt-link>
+          <nuxt-link to="/product">Shop</nuxt-link>
         </li>
         <li>
           <nuxt-link to="/contact">Contact Us</nuxt-link>
