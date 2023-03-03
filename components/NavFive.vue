@@ -20,18 +20,19 @@
                   </div>
                   <div class="main-nav__main-navigation five float-left">
                     <ul class=" main-nav__navigation-box">
-                      <li>
-                        <nuxt-link to="/aboutus">About</nuxt-link>
-                      </li>
-                      <li>
-                        <nuxt-link to="/parksAlliance">Our Friends</nuxt-link>
-                      </li>
                       <li class="dropdown">
+                        <nuxt-link to="/aboutus">About Us</nuxt-link>
+                        <ul>
+                          <li class="dropdown">
                         <nuxt-link to="#">Our Boats</nuxt-link>
                         <ul>
                           <li><nuxt-link to="/canoes">Canoes</nuxt-link></li>
                           <li><nuxt-link to="/kayaks">Kayaks</nuxt-link></li>
                           <li><nuxt-link to="/paddleboards">Stand-Up Paddleboards</nuxt-link></li>
+                        </ul><!-- /.sub-menu -->
+                      </li>
+                          <li><nuxt-link to="/parksAlliance">Our Friends</nuxt-link></li>
+                          <li><nuxt-link to="/paddleboards">FAQ</nuxt-link></li>
                         </ul><!-- /.sub-menu -->
                       </li>
                       <li>
@@ -48,6 +49,7 @@
             </nav>
           </div>
           <div class="topbar_three_right_box five">
+            
             <div class="topbar-one__social">
               <a href="#"><i class="fab fa-facebook-square"></i></a>
               <a href="#"><i class="fab fa-twitter"></i></a>

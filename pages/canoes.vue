@@ -9,7 +9,7 @@
 <script>
 
   import NavFive from "../components/NavFive";
-  import CanoeDetail from "../components/CanoeDetail";
+  import CanoeDetail from "../components/CanoeDetail"; 
   import Footer from "../components/Footer";
   export default {
     components: {
